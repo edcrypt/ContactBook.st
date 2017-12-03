@@ -1,1 +1,1 @@
-I represent a contact in a contact book,
+I represent a person with a name and an email address. I ́m usually part of a contact book.
