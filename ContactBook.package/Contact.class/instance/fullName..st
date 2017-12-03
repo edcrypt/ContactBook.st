@@ -1,3 +1,3 @@
 accessing
 fullName: aString
-	fullName := aString
+	fullName := aString withBlanksCondensed

@@ -1,3 +1,3 @@
 accessing
 email: aString
-	email := aString
+	email := aString asLowercase withBlanksCondensed 
