@@ -1,0 +1,1 @@
+I represent a contact in a contact book,

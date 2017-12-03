@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "EduardoPadoan 12/3/2017 18:23",
+	"super" : "Object",
+	"category" : "ContactBook-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fullName",
+		"email"
+	],
+	"name" : "Contact",
+	"type" : "normal"
+}
