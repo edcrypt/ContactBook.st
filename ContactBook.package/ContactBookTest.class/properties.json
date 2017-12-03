@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "ContactBook-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"contactBook",
+		"secondContact",
+		"aContact"
+	],
+	"name" : "ContactBookTest",
+	"type" : "normal"
+}
