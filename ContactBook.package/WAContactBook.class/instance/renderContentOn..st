@@ -1,8 +1,8 @@
 rendering
 renderContentOn: html
-	"Main entry point of the View. Render a title."
+	"Main entry point of the View. Render both a title and a list of contacts."
 	html tbsContainer: [
 		html heading
 			level: 1;
 			with: 'My Contact Book'.
-		self renderContactsOn: html ]
+		html tbsForm: [self renderContactsOn: html ] ]
