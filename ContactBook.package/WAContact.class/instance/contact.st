@@ -1,0 +1,3 @@
+initialization
+contact
+	^ contact
