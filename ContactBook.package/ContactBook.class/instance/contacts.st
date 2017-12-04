@@ -1,3 +1,3 @@
 accessing
 contacts
-	^ contacts ifNil: [ contacts := OrderedCollection new ]
+	^ contacts ifNil: [ self resetContacts. contacts ]

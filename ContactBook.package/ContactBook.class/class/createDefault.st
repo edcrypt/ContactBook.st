@@ -1,8 +1,8 @@
 default instance
 createDefault
 	^ self new
-		addContact: (Contact newNamed: 'John Doe' email: 'john.doe@gmail.com');
-		addContact: (Contact newNamed: 'Jane Doe' email: 'jane.doe@gmail.com');
-		addContact: (Contact newNamed: 'Fulano da Silva' email: 'fulano@gmail.com');
-		addContact: (Contact newNamed: 'Sicrano Beltrano' email: 'sicr.belt@gmail.com');
+		addContact: (Contact newNamed: 'Damien Cassou' email: 'damien@cassou.me');
+		addContact: (Contact newNamed: 'Marcus Denker' email: 'marcus.denker@inria.fr');
+		addContact: (Contact newNamed: 'Tudor Girba' email: 'tudor@tudorgirba.com');
+		addContact: (Contact newNamed: 'Clara Allende' email: 'clari.allende@gmail.com');
 		yourself
